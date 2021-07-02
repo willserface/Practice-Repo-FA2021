@@ -1,10 +1,10 @@
-## First Name Last Name
+## Orel Yoshia
 
-### Term Year 
+### Summer 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- intro to data science
 
 - Course 2
 
