@@ -2,26 +2,26 @@
 
 ### Fall 2021
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA & ECE student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- MAC 2312 with Professor Rumpf
 
-- Course 2
+- COP 2034 with Professor Khalid
 
-- Course 3
+- CTS 2375 with Professor Khalid
 
-- Course 4
+- COP 2073 with Professor Yoshia
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video Games, pretty much anything I can play with friends. Current Favorites: Rocket League, Valorant, Sea of Thieves.
 
-- Thing 2
+- Building and tinkering with computers. I have built 2 computers from the ground up, and taken apart/modified many more.
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Studying lots of stuff at Florida Polytechnic Univeristy <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/08/31
