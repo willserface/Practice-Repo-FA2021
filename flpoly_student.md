@@ -1,4 +1,4 @@
-## Student Name
+## Student Name (or name you would preferred to be called)
 
 ### Fall 2021
 
